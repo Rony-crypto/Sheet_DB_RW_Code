@@ -15,7 +15,7 @@ SAMPLE_RANGE_NAME = "Sheet1!A:Z"
 
 # PostgreSQL connection parameters
 POSTGRES_PARAMS = {
-    "dbname": "tallykhata",
+    "dbname": "DB_Name",
     "user": "data_rony",
     "password": "rony",
     "host": "10.192.192.52",

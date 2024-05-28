@@ -18,7 +18,7 @@ SAMPLE_RANGE_NAME = "Sheet1!A:Z"
 # Connect to PostgreSQL database
 def connect_to_postgres():
     conn = psycopg2.connect(
-        dbname="tallykhata",
+        dbname="DB_Name",
         user="data_rony",
         password="rony",
         host="10.192.192.52",
